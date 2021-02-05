@@ -1,2 +1,6 @@
-package com.fedesardo.jokeapp.jokeapp.services;public interface JokeService {
+package com.fedesardo.jokeapp.jokeapp.services;
+
+public interface JokeService {
+
+    String getJoke();
 }
